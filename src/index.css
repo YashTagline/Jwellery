@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Nunito Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img, canvas, iframe, video {
+  vertical-align: top;
+  max-width: 100%;
+}
+
+a:hover{
+  text-decoration: none !important;
+}
+
+.lg-backdrop {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
