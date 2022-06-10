@@ -9,7 +9,6 @@ import CustomButton from "../comman/CustomButton";
 import ChatBubbleIcon from "@material-ui/icons/ChatBubble";
 import { blogStyle } from "./blogStyle";
 
-
 const blogPost = [
   {
     blogPostImage: blogPost1,
